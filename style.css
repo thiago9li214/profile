@@ -90,3 +90,11 @@ img {
 .fa {
   color: #5E7593;
 }
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
